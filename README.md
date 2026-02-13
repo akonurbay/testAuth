@@ -68,5 +68,5 @@
 - Если сервер возвращает 4xx/5xx — логируется тело ответа, чтобы упростить
 
 
-![alt text](image.png)
-![alt text](image-1.png)
+<img src="image.png" alt="alt text" width="200">
+<img src="image-1.png" alt="alt text" width="200">
